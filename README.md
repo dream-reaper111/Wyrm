@@ -3,10 +3,6 @@
 
 # 🪱 WYRM
 
-### SSH Worm Behavior Analysis · Network Discovery · Credential Propagation · CVE Research
-
-**Python 3 · Scapy · Paramiko · Defensive Malware Research**
-
 ![Illustrative WYRM network-discovery and propagation animation](assets/wyrm-network-demo.gif)
 
 <sub>Illustrative animation of worm-like network behavior. Simulated output; not evidence of successful exploitation.</sub>
