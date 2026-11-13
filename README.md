@@ -1,7 +1,7 @@
-[README(3).md](https://github.com/user-attachments/files/34812959/README.3.md)
+
 <div align="center">
 
-# 🪱 WYRM
+# WYRM
 
 ![Illustrative WYRM network-discovery and propagation animation](assets/wyrm-network-demo.gif)
 
