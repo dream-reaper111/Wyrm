@@ -1,6 +1,7 @@
 # Wyrm
 
-https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR3bzh6cWIxaTdsaTFhd2JudGRva293emYyOWx4NHA3bHBsemh4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTeV7COf0f4VKRzeRW/giphy.gif
+<img width="480" height="360" alt="image" src="https://github.com/user-attachments/assets/906eea49-b4a6-4620-b99f-557418167321" />
+
 
 Illustrative animation — simulated terminal output, not a recording of a live infection.
 </div>[!CAUTION]
