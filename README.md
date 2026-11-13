@@ -5,13 +5,12 @@
 
 ![Illustrative WYRM network-discovery and propagation animation](assets/wyrm-network-demo.gif)
 
-<sub>Illustrative animation of worm-like network behavior. Simulated output; not evidence of successful exploitation.</sub>
 
 > **“IT WAS AN ALASKAN BULL WORM!”**
 
 ![SpongeBob's Alaskan Bull Worm meme GIF](https://i.kym-cdn.com/photos/images/newsfeed/001/512/528/abc.gif)
 
-<sub>Optional SpongeBob meme, externally hosted; [original GIF / source](https://knowyourmeme.com/photos/1512528-spongebob-squarepants). An internet connection is required to display it.</sub>
+ [original GIF / source](https://knowyourmeme.com/photos/1512528-spongebob-squarepants).
 
 </div>
 
