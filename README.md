@@ -1,5 +1,7 @@
 # Wyrm
 
+https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR3bzh6cWIxaTdsaTFhd2JudGRva293emYyOWx4NHA3bHBsemh4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xTeV7COf0f4VKRzeRW/giphy.gif
+
 Illustrative animation — simulated terminal output, not a recording of a live infection.
 </div>[!CAUTION]
 This repository contains self-propagating code. As written, worm2.py discovers nearby systems, attempts SSH authentication with a short hard-coded credential list, copies itself to systems it can access, and launches additional copies. Do not execute it on production, public, shared, or otherwise unauthorized networks. The program has no target allowlist, kill switch, or scope enforcement.
