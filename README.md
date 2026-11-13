@@ -10,7 +10,7 @@
 
 ![SpongeBob's Alaskan Bull Worm meme GIF](https://i.kym-cdn.com/photos/images/newsfeed/001/512/528/abc.gif)
 
- [original GIF / source](https://knowyourmeme.com/photos/1512528-spongebob-squarepants).
+ (https://knowyourmeme.com/photos/1512528-spongebob-squarepants).
 
 </div>
 
